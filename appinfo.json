@@ -4,7 +4,7 @@
         "location"
     ],
     "companyName": "pebble@polente.de",
-    "longName": "Publicis.Sapient Offices Locations",
+    "longName": "SapientNitro Global Offices",
     "projectType": "pebblejs",
     "resources": {
         "media": [
@@ -32,7 +32,7 @@
         ]
     },
     "sdkVersion": "3",
-    "shortName": "Publicis.Sapient Offices",
+    "shortName": "SapientNitro Offices",
     "targetPlatforms": [
         "aplite",
         "basalt"
